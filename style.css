@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+.alert {
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+}
+.ppt {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 2rem;
+  text-align: center;
+}
+.con {
+  width: 100vw;
+  height: 100vh;
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.con div {
+  margin-top: 100px;
+  width: 100px;
+  height: 100px;
+}
+.box {
+  border: 2px solid black;
+  text-align: center;
+  line-height: 100px;
+}
+.color {
+  background-color: coral;
+  text-align: center;
+  line-height: 100px;
+}
